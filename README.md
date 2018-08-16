@@ -465,6 +465,6 @@ This folder contains the images used for this README file.
 
 - [IBM StockTrader Application GitHub repository (for this work)](https://github.com/ibm-cloud-architecture/stocktrader-app)
 
-- [IBM StockTrader Application Helm chart repository (for this work)](https://github.com/ibm-cloud-architecture/stocktrader-helm-repo)
+- [IBM StockTrader Application Helm chart repository (for this work)](https://github.com/jesusmah/stocktrader-helm-repo)
 
 - [Official IBM StockTrader Application GitHub repository](https://github.com/IBMStockTrader)
